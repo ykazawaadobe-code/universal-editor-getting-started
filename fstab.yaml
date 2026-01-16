@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p175107-e1858717.adobeaemcloud.com/bin/franklin.delivery/ykazawaadobe-code/universal-editor-getting/main"
+    url: "https://author-p175107-e1858717.adobeaemcloud.com/bin/franklin.delivery/ykazawaadobe-code/universal-editor-getting-started/main"
     type: "markup"
     suffix: ".html"
